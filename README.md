@@ -11,7 +11,7 @@ Features:
 
 ### Test & Benchmark Results:
 <pre>
-In Comparison with Edusat:
+Comparison with Edusat:
 ---------------------------------------------------------------------------------------------------
 |        Files :        bmc-2.cnf   | bmc-7.cnf | unsat3.cnf | par8.cnf | aim-50 | aim100 | zebra |
 | ------------------- | ----------- | --------- | ---------- | -------- | ------ | ------ | ----- |
