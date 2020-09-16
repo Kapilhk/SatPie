@@ -25,4 +25,4 @@ Comparison with Edusat:
 #### -> The correctness of the SAT Solver has been verified through some of the Benchmarks from various sources. 
 #### -> The Solver performs excellently for variables ≈ till 2000, even better than EduSat in some cases.
 #### -> The performance starts degrading for very large instances which can be optimized further in future work by learned clause deletion and    Unique Implication Point based clause learning.
-### -> Random Restart Probabilty can be adjusted to optimize performance for larger instances.
+#### -> Random Restart Probabilty can be adjusted to optimize performance for larger instances.
